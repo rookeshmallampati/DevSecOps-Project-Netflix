@@ -1,3 +1,23 @@
+# **LinkedIn Post**
+[LinkedIn Post Link](https://www.linkedin.com/posts/amit-singh-deora-08741b172_aws-devops-devopsengineer-activity-7313574131319377920-x-3L?utm_source=share&utm_medium=member_desktop&rcm=ACoAACj_K6cBWtuhIHIq4i2yC0XG0HIJ2EmO7Zo)
+<div align="center">
+ <a href="https://www.linkedin.com/posts/amit-singh-deora-08741b172_aws-devops-devopsengineer-activity-7313574131319377920-x-3L?utm_source=share&utm_medium=member_desktop&rcm=ACoAACj_K6cBWtuhIHIq4i2yC0XG0HIJ2EmO7Zo"> <img src="./public/assets/netflixlinkedin.png" alt="Logo" width="100%" height="100%"> </a>
+
+  <br>
+  <a href="https://www.linkedin.com/posts/amit-singh-deora-08741b172_aws-devops-devopsengineer-activity-7313574131319377920-x-3L?utm_source=share&utm_medium=member_desktop&rcm=ACoAACj_K6cBWtuhIHIq4i2yC0XG0HIJ2EmO7Zo">
+    <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
+  </a>
+</div>
+
+# **Complete Blog post: Detailed explanation**
+[Hashnode Blog Link](https://amitsinghs.hashnode.dev/devsecops-pipeline-project-deploy-netflix-clone-on-kubernetes)
+<div align="center">
+ <a href="https://amitsinghs.hashnode.dev/devsecops-pipeline-project-deploy-netflix-clone-on-kubernetes"> <img src="./public/assets/netflixhash.png" alt="Logo" width="100%" height="100%"> </a>
+
+  <br>
+</div>
+
+# DevSecOps Netflix Clone Workflow
 <div align="center">
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
@@ -13,14 +33,6 @@
   <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
   <p align="center">Home Page</p>
 </div>
-
-# **Youtube Video for step by step Demonstration!**
-[![Video Tutorial](https://img.youtube.com/vi/g8X5AoqCJHc/0.jpg)](https://youtu.be/g8X5AoqCJHc)
-
-
-## Susbcribe:
-[https://www.youtube.com/@cloudchamp?
-](https://www.youtube.com/@cloudchamp?sub_confirmation=1)
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
