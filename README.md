@@ -1,5 +1,5 @@
 # **LinkedIn Post**
-[LinkedIn Post Link](https://www.linkedin.com/posts/amit-singh-deora-08741b172_aws-devops-devopsengineer-activity-7313574131319377920-x-3L?utm_source=share&utm_medium=member_desktop&rcm=ACoAACj_K6cBWtuhIHIq4i2yC0XG0HIJ2EmO7Zo)
+[LinkedIn Post Link](https://www.linkedin.com/posts/amit-singh-deora_aws-devops-devopsengineer-activity-7313574131319377920-S5fq)
 <div align="center">
  <a href="https://www.linkedin.com/posts/amit-singh-deora-08741b172_aws-devops-devopsengineer-activity-7313574131319377920-x-3L?utm_source=share&utm_medium=member_desktop&rcm=ACoAACj_K6cBWtuhIHIq4i2yC0XG0HIJ2EmO7Zo"> <img src="./public/assets/netflixlinkedin.png" alt="Logo" width="100%" height="100%"> </a>
 
