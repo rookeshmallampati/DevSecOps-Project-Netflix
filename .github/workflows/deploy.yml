@@ -27,9 +27,11 @@ jobs:
         docker build -t rookesh975/netflix:latest .
         docker push rookesh975/netflix:latest
 
+    - name: Create .kube directory
+      run: mkdir -p $HOME/.kube
+
     - name: Set up Kubeconfig
-      run: |
-        echo "${{ secrets.KUBECONFIG }}" | base64 -d > $HOME/.kube/config
+      run: echo "${{ secrets.KUBECONFIG }}" | base64 -d > $HOME/.kube/config
 
     - name: Deploy to Kubernetes
       run: |
